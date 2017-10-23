@@ -1,0 +1,11 @@
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\bin\Debug\netcoreapp1.1\RateMyMenu.UI.deps.json
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\bin\Debug\netcoreapp1.1\RateMyMenu.UI.runtimeconfig.json
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\bin\Debug\netcoreapp1.1\RateMyMenu.UI.runtimeconfig.dev.json
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\bin\Debug\netcoreapp1.1\RateMyMenu.UI.dll
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\bin\Debug\netcoreapp1.1\RateMyMenu.UI.pdb
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.csproj.CoreCompileInputs.cache
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.AssemblyInfoInputs.cache
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.AssemblyInfo.cs
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.dll
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.pdb
+D:\Projects\RateMyMenu\Web Application\RateMyMenu.UI\RateMyMenu.UI\obj\Debug\netcoreapp1.1\RateMyMenu.UI.csprojResolveAssemblyReference.cache
