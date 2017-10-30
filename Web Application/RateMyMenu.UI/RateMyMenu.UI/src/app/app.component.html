@@ -1,13 +1,30 @@
-<h1>
-  Rate My Menu
-</h1>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Rate My Menu</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li [routerLinkActive]="['active']"><a [routerLink]="['/Home']">Home</a></li>
+      <li [routerLinkActive]="['active']"><a [routerLink]="['/Restaurant']">Restaurants</a></li>
+      <li [routerLinkActive]="['active']" class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown">
+          Menus
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+          <li>
+            <a [routerLink]="['/RestaurantMenu']">Favorites</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>
 
-<ul>
-  <li><a [routerLink]="['/Restaurant']">Restaurants</a></li>
-  <li><a [routerLink]="['/RestaurantMenu']">Menus</a></li>
-</ul>
-
-<h1>Hello 2 you again</h1>
 <ul>
   <li *ngFor="let value of apiValues">{{value}}</li>
 </ul>

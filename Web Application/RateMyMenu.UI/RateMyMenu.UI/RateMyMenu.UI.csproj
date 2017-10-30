@@ -9,6 +9,7 @@
     <None Remove="src\login\login.component.ts" />
     <None Remove="src\restaurantMenu\restaurantMenu.component.ts" />
     <None Remove="src\restaurant\restaurant.component.ts" />
+    <None Remove="src\welcome\welcome.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,6 +33,7 @@
     <TypeScriptCompile Include="src\login\login.component.ts" />
     <TypeScriptCompile Include="src\restaurantMenu\restaurantMenu.component.ts" />
     <TypeScriptCompile Include="src\restaurant\restaurant.component.ts" />
+    <TypeScriptCompile Include="src\welcome\welcome.component.ts" />
   </ItemGroup>
 
 </Project>
